@@ -17,6 +17,7 @@ target
 .vs
 Debug
 x64
+x86
 
 # Python #
 __pycache__
